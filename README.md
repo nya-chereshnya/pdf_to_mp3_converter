@@ -7,6 +7,7 @@ This is a Python program that converts PDF files into audio MP3 files. It uses t
 Before using this program, make sure you have the following dependencies installed:
  - pdfplumber
  - gtts
+
 You can install these dependencies using pip:
 ```
 pip install pdfplumber gtts
